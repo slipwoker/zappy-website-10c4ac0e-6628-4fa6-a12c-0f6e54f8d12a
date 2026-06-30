@@ -1,0 +1,84 @@
+# אהבת ירושלים — Generative Engine Optimization Map
+
+> A deep-dive guided tour service based in Jerusalem, specializing in immersive explorations of faith, religion, holiness, and history across the three major Abrahamic religions — Judaism, Christianity, and Islam. The tours offer a rich, scholarly, and spiritual journey through Jerusalem and its surroundings, covering sacred sites, rituals, and historical narratives. The brand carries an atmosphere of cultural depth, interfaith curiosity, and profound historical significance.
+
+---
+
+## Pages
+
+### בית
+https://-10c4ac0e.zappy5.app
+צללו למסע נדיר בלב ירושלים, בו היסטוריה חיה, אמונות עתיקות וטקסים קדושים נפגשים. סיורי עומק לצליינים ולסקרנים המחפשים חווייה רוחנית בלתי נשכחת. הצטרפו אלינו וגעו בנצח.
+
+### סיורים
+https://-10c4ac0e.zappy5.app/tours
+מסע מודרך אל מאחורי הקלעים של ירושלים הקדושה: טקסים סודיים, נרטיבים היסטוריים ומפגש בין-דתי מרתק. כל סיור הוא הרפתקה מחקרית שמעירה את החושים. בחרו את הנתיב שלכם עוד היום.
+
+### אודות
+https://-10c4ac0e.zappy5.app/about
+הכירו את הצוות שמפיח חיים באבני ירושלים: מדריכים מלומדים המשלבים תשוקה לדתות, להיסטוריה ולתרבויות. אנו מזמינים אתכם למסע של גילוי, כבוד הדדי וסקרנות אינסופית אל לב הקודש.
+
+### צור קשר
+https://-10c4ac0e.zappy5.app/contact
+מוכנים לצעוד בעקבות צליינים, אמונות וטקסים עתיקים? השאירו פרטים ונבנה יחד סיור עומק אישי שיפתח לכם צוהר אל ירושלים האחרת. החוויה המכוננת שלכם מתחילה כאן.
+
+### תודה רבה
+https://-10c4ac0e.zappy5.app/thank-you
+אהבת ירושלים - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-10c4ac0e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-10c4ac0e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-10c4ac0e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-10c4ac0e.zappy5.app/contact
+- Endpoint: https://-10c4ac0e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אהבת ירושלים
+A deep-dive guided tour service based in Jerusalem, specializing in immersive explorations of faith, religion, holiness, and history across the three major Abrahamic religions — Judaism, Christianity, and Islam. The tours offer a rich, scholarly, and spiritual journey through Jerusalem and its surroundings, covering sacred sites, rituals, and historical narratives. The brand carries an atmosphere of cultural depth, interfaith curiosity, and profound historical significance.
+
+## Target Audience
+- חובבי היסטוריה
+- משפחות בחופשה
+- צליינים
+- יהדות התפוצות
+- חברות הי טק
+
+## Industry
+Tourism & Guided Tours
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-10c4ac0e.zappy5.app/sitemap.xml
+- Robots: https://-10c4ac0e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-10c4ac0e.zappy5.app/llms-full.txt
